@@ -1,7 +1,9 @@
 
-<img src="https://data.whicdn.com/images/341281650/original.gif" style="width:100%;height:550px;object-fit:cover;"/>
+<img src="https://i.pinimg.com/originals/19/91/0a/19910a2176252106b33cfa0b7afe85a2.gif" style="width:100%;height:550px;object-fit:cover;"/>
 <!--
 <img src="https://c.tenor.com/RWT9i3rof_IAAAAC/taku-morisakiii-ocean-waves-anime.gif" style="width:100%;height:500px;object-fit:cover;"/>
+<img src="https://data.whicdn.com/images/341281650/original.gif" style="width:100%;height:500px;object-fit:cover;"/>
+<img src="https://i.pinimg.com/originals/19/91/0a/19910a2176252106b33cfa0b7afe85a2.gif" style="width:100%;height:500px;object-fit:cover;"/>
 -->
 
 <!--
